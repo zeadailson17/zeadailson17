@@ -4,7 +4,7 @@
 - 👀 I’m interested in Cloud Architecture, DevOps, and AI
 - 🌱 I’m currently learning Python and improving my English skills
 - 💞️ I’m looking to collaborate on cloud-based projects and open source initiatives
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/zeadailson/) | zeadailson17@gmail.com
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jose-adailson-sousa-silva/) | zeadailson@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love discovering new restaurants and exploring different cultures through travel
 
